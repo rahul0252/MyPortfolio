@@ -3,7 +3,7 @@
   --primary: #00B87B;
   --secondary: #314355;
   --light: #F2F2F2;
-  --dark: #2C3E50;
+  --dark: #FBF6E2;
 }
 
 #spinner {
@@ -11,7 +11,7 @@
   visibility: hidden;
   transition: opacity .5s ease-out, visibility 0s linear .5s;
   z-index: 99999;
-}
+}z
 
 #spinner.show {
   transition: opacity .5s ease-out, visibility 0s linear 0s;
